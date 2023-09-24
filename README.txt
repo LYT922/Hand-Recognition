@@ -40,3 +40,4 @@ The old_version file contains the following scripts that will not be able to be 
    
 3. old_classification.py - this is an older version of our final project. It will try to perform classification from the webcam using the trained network from NN.ipynb. It is not accurate on the webcam data, but after you close the webcam data portion by hitting 'q' on the keyboard, it will display the classification results of the test images which is accurate.
 
+Presentation: https://www.canva.com/design/DAFiRKv8pSc/my8RU9Y6rlbBLhkjld4v_Q/edit?utm_content=DAFiRKv8pSc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
